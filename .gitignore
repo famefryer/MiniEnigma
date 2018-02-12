@@ -6,3 +6,5 @@ Test.java
 /src/Enigma.class
 /src/MyKey.class  
 /src/MyKey.java
+.classpath
+.project
